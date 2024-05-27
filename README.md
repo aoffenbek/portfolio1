@@ -10,7 +10,7 @@
 - Financing application cloud modernization
 
 **Reporting Business Analyst @ IBM Financing (_2017 - 2019_)**
-- Developed comprehensive reports covering financing sales areas like Inventory, Billing, Contract, Customer Search, Portfolio Summary, Credit, Spending Habits, enhancing operational visibility and strategic planning using Cognos Analytics
+- Moved reports to Cognos Analystics
 
 **Accouting ERP Consultant @ IBM Financing (_2010 - 2012_)**
 - Business and technical support for internal ERP system's accounting module 
