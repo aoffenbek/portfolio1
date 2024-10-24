@@ -3,7 +3,7 @@
 #### Technical Skills: currently learning about SQL and Python
 
 ## Education 			        		
-- B.S., Economics | University of Pannonia (_2002_)
+- B.S., Economics | University of Pannonia (_2001_)
 
 ## Work Experience
 **Business Analyst @ IBM Financing (_2020 - Present_)**
