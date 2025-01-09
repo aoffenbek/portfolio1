@@ -17,6 +17,6 @@
 
 ## Projects
 ### IBM Financing HUB
-[Core product](www.ibm.com/resources/financing/finhub/landing)
+www.ibm.com/resources/financing/finhub/landing
 
 Built on vue.js front-end and node.js back-end using 10+ microservices.
