@@ -13,13 +13,13 @@
 **Accouting ERP Analyst @ IBM Financing (_2010 - 2012_)**
 - Business and technical support for internal ERP system's accounting module 
 
-### Projects
-### IBM Financing HUB
+## Projects
+## IBM Financing HUB
 www.ibm.com/resources/financing/finhub/landing
 
 Built on vue.js front-end and node.js back-end using 10+ microservices.
 
-# Technical Skills: currently learning SQL and Python
+## Technical Skills: currently learning SQL and Python
 
-# Education 			        		
+## Education 			        		
 - B.S., Economics | University of Pannonia (_2001_)
